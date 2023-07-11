@@ -89,5 +89,6 @@
           margin: 5px auto;}
           /* p{padding: 5px 50px;} */
           .footer-socials{text-align: center;}
-          .header{display: block;}
+          .header{display: block;
+                  padding-top: 50px;}
         }
