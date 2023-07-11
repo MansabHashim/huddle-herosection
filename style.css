@@ -49,7 +49,8 @@
     
     .footer-socials{text-align: right;
     margin-right: 50px;}
-    .logo{width: 15%;}
+    .logo{width: 15%;
+         padding-top: 50px;}
     
     .huddle-page{
       padding: 0% 5%;
