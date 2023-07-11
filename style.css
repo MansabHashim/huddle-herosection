@@ -13,8 +13,9 @@
     h2{font-size: 2.8rem;
     padding-bottom: 30px;}
     
-    .cta{padding: 40px 0px 0px 5%;
+    .cta{padding: 100px 0px 0px 5%;
     width: 50%;
+         
     font-size: large;} 
     
     p{color: #dcc9ff;
@@ -63,7 +64,8 @@
         .huddle-page{background-color: #674bb1;
         }
     
-        #mockup{width: 100%;}
+        #mockup{width: 100%;  
+                padding-top: 50px;}
     
         @media(max-width: 800px){
           nav{text-align: left;}
